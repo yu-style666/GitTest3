@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>登录</title>
+    <script src="../js/jquery-1.11.1.min.js"></script>
+    <script src="../js/login.js"></script>
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="shortcut icon" href="../images/favicon.ico">
+</head>
+
+<body style="background:#dee0e3;">
+    <!--   login_header start-->
+    <div id="login_top" style="background:#edeff1;">
+        <div id="login_header">
+            <div class="logo">
+                <h1 class="logo_img"><a href="../index.html"></a></h1>
+                <div class="logo_txt">全球奢品 官方授权</div>
+            </div>
+        </div>
+    </div>
+    <!--   login_header end-->
+
+
+    <!--   login_center start-->
+    <div id="login_center">
+        <div id="login_content">
+            <div class="login_main">
+                <div class="title">
+                    <h2>会员登录</h2>
+                    <div>没有账号？<a href="register.html">免费注册</a></div>
+                </div>
+                <form>
+                    <div class="name">
+                        <span>用户名：</span>
+                        <input type="text" name="name" id="name" placeholder="请输入您的用户名">
+                        <p>请输入正确的用户名!</p>
+                    </div>
+
+                    <div class="password">
+                        <span>密码：</span>
+                        <input type="password" name="password" id="password">
+                        <p>用户名与密码不匹配</p>
+                    </div>
+                </form>
+
+                <div class="verification">
+                    <span>验证码：</span>
+                    <input type="text" name="verification" id="verification" placeholder="不区分大小写">
+                    <div class="yes"><img src="../images/yes.gif" alt=""></div>
+                    <input type="button" name="random" id="random" value="">
+                    <p>请输入正确的验证码!</p>
+                </div>
+
+                <div class="submit">
+                    <span></span>
+                    <input type="submit" name="submit" id="submit" value="会员登录">
+                </div>
+                <div class="checkbox">
+                    <span></span>
+                    <input type="checkbox" name="checkbox" id="checkbox">
+                    <label for="checkbox" onselectstart="return false">下次自动登录</label> 
+                    <a href="#">忘记密码</a>
+                </div>
+                <div class="link">
+                    <span>联名登录：</span>
+                    <a href="#" class="sina"></a>
+                    <a href="#" class="Alipay"></a>
+                </div>
+                <div class="loginQRcode">
+                    <span></span>
+                    <img src="../images/loginQRcode.jpg" alt="">
+                    <p>扫描二维码或发送短信
+                        <br/> “MLH”到“12114”
+                        <br/> 下载APP尊享独家优惠
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!--   login_center end-->
+
+
+    <!--footer start-->
+    <div id="footer" style="background:#dee0e3;">
+        <div class="bottom">
+            <ul class="footer_nav">
+                <li class="a1"><a href="#">100%品牌授权正品</a></li>
+                <li class="a2"><a href="#">满668免运费</a></li>
+                <li class="a3"><a href="#">7天无条件退换货</a></li>
+                <li class="a4"><a href="#">超值折扣</a></li>
+                <li class="a5"><a href="#">9点限时闪购 </a></li>
+                <li class="a6"><a href="#">400-664-6698</a></li>
+            </ul>
+            <ul class="footer_link">
+                <li><a href="#">关于魅力惠</a></li>
+                <li><a href="#">加入我们</a></li>
+                <li><a href="#">联系我们</a></li>
+                <li><a href="#">使用帮助</a></li>
+                <li><a href="#">使用规则</a></li>
+                <li><a href="#">隐私声明</a></li>
+            </ul>
+            <p class="copyright">COPYRIGHT©2016 杭州魅俪信息技术有限公司版权所有&nbsp;&nbsp;浙ICP备16004860号-1</p>
+            <div class="license">
+                <img src="../images/badge.jpg" alt="">
+                <img src="../images/sincerity.jpg" alt="">
+            </div>
+        </div>
+    </div>
+
+    <!--footer end-->
+</body>
+
+</html>

@@ -1,0 +1,104 @@
+/*-----center start---*/
+/*------content banner----*/
+#content .banner{min-height:1000px;background:url(../images/bg1.jpg) no-repeat center 0;}
+
+#content .banner .banner_top{width:1020px;height:620px;margin:0 auto;position: relative;}
+#content .banner .banner_top .public_welfare{position:absolute;top:448px;left:517px;width:124px;height:34px;;text-indent:-9999px;}
+#content .banner .banner_top .public_welfare:hover{background:blue;opacity:0.3;}
+#content .banner .banner_top .together{position:absolute;top:546px;left:189px;;width:640px;height:73px;text-indent:-9999px;}
+#content .banner .banner_top .together:hover{background:#000000;opacity:0.4;}
+#content .banner .banner_bottom{width:1020px;height:932px;margin:0 auto;position:relative;} 
+#content .banner .banner_bottom .link{width:990px;height:456px;position:absolute;top:300px;left:20px;overflow:hidden;}
+#content .banner .banner_bottom .link li{width:480px;height:140px;margin:5px;text-indent:-9999px;border-radius:50px;opacity:0;}
+#content .banner .banner_bottom .link li a{width:480px;height:140px;display:block;}
+/*------商品一览表一 start----*/
+#content .commodity{width:1020px;margin:0 auto;min-height: 1000px;}
+/*------content 列表1 列表2 列表3 列表4 列表5 start----*/
+#content .commodity .Luxurygoods,#content .commodity .Fashion,#content .commodity2 .Today,#content .commodity2 .BestSellers,#content .commodity2 .Activity{overflow: hidden;margin-bottom:50px;}
+
+/*------------列表1列表2 h2标题的背景不同-------*/
+#content .commodity .Luxurygoods h2,#content .commodity .Fashion h2{width:1020px;height:70px;background:url(../images/title.gif);text-indent:-9999px;}
+#content .commodity .Fashion h2{background:url(../images/title.gif) no-repeat 0 -70px;}
+/*------------列表1列表2 h2标题的背景不同-------*/
+/*------content 列表1 列表2 列表3 列表4 列表5 end----*/
+/*------商品一览表一 end----*/
+
+/*------content 商品一览表二 start----*/
+#content .commodity2{width:1020px;margin:0 auto;min-height: 1000px;padding:20px;position:relative;}
+#content .commodity2 .left_bg,#content .commodity2 .right_bg{position:absolute;background:url(../images/icons.png);width:20px;height:500px;}
+#content .commodity2 .left_bg{left:0;top:10px;background-position:-110px 0;}
+#content .commodity2 .right_bg{left:1040px;top:10px;background-position:0 0;}
+#content .commodity2 .now{height:100px;width:1020px;display: block;background:url(../images/now.png);text-indent: -9999px;}
+#content h3{height:30px;font-size: 30px;line-height: 30px;margin:20px 0;}
+/*------content 商品一览表二 end----*/
+
+/*----------content 规则 start--------*/
+#content .rules{height:1020px;background:url(../images/rules.gif) no-repeat center 0;}
+/*----------content 规则 end--------*/
+/*-------活动即将开始 start------*/
+#content .activitiesList{width:1060px;height:auto;margin:20px auto;}
+#content .activitiesList .activitiesHeader{height:25px;position:relative;}
+#content .activitiesList .btns li{width:88px;height:16px;border-left:1px solid #000000;text-align: center;line-height: 16px;cursor:pointer;}
+#content .activitiesList .btns .last{border-right:1px solid #000000;}
+#content .activitiesList .activitiesHeader .underline{width:89px;height:4px;background:#000000;position:absolute;left:0;bottom:0;}
+#content .activitiesList .activitiesHeader span{width:150px;height:25px;float:right;line-height: 25px;}
+#content .activitiesList .activitiesHeader span em{font-size: 24px;color:red;}
+#content .activitiesList .activitiesCtn{overflow: hidden;}
+#content .activitiesList .activitiesCtn li{width:1060px;height:auto;overflow:hidden;display:none;}
+#content .activitiesList .activitiesCtn .tomorrow{display:block;}
+#content .activitiesList .activitiesCtn li .box{width:320px;height:90px;background:#b1aaaa;float:left;margin:15px;border:1px solid #b1aaaa;border-radius: 5px;position:relative;}
+#content .activitiesList .activitiesCtn li div dt,#content .activitiesList .activitiesCtn li div dd{width:160px;height:90px;float:left;}
+#content .activitiesList .activitiesCtn li div dd{padding:10px;width:140px;height:70px;}
+#content .activitiesList .activitiesCtn li div dl p{height:30px;font-size: 12px;margin-bottom:5px;}
+#content .activitiesList .activitiesCtn li div dl span em{color:red;font-size: 18px;font-weight:900;}
+#content .activitiesList .activitiesCtn li .box .mask{width:220px;height:60px;position:absolute;top:0;left:0;background:rgba(0,0,0,0.5);padding:30px 0 0 100px;display: none;}
+#content .activitiesList .activitiesCtn li .box .mask .subscribe{width:120px;height:30px;background:#db2726;text-align: center;font-size:12px;color:#fff;}
+#content .activitiesList .activitiesCtn li .box .mask .subscribe a{color:#fff;line-height: 30px;}
+
+/*-------活动即将开始 end--------*/
+/*-----center end-----*/
+
+/*--------秒杀 开始--------*/
+#seckill1{width:0;height:65px;position:fixed;left:0;bottom:150px;background:url(../images/seckill1.jpg) no-repeat 0 0;cursor:pointer;}
+#seckill2{width:100%;height:144px;position:fixed;bottom:0px;background:url(../images/seckill2.png) no-repeat center;}
+#seckill2 .content{width:1060px;height:144px;margin:0 auto;position:relative;}
+#seckill2 .close{width:45px;height:40px;position:absolute;left:981px;top:0;background:rgba(255,255,255,0.5);cursor:pointer;}
+#seckill2 .Panic_buying{width:121px;height:33px;position:absolute;left:881px;top:76px;text-indent:-9999px;}
+#seckill2 .Panic_buying a{display: block;width:100%;height:100%;}
+/*--------秒杀 结束--------*/
+
+/*--------二维码及一键置顶 开始-----*/
+#erweima{width:98px;height:278px;position:fixed;right:0;bottom:184px;border:1px solid #000000;}
+#erweima .explain{width:80px;height:50px;background:#000000;padding:5px 10px;}
+#erweima .explain div,#erweima .explain p{text-align: center;line-height:25px;font-size:15px;color:#fff;font-weight: 900;}
+#erweima .explain div{color:red;font-size:25px;}
+#erweima img{width:80px;height:80px;margin:0 10px;}
+#erweima span{display: block;text-align: center;font-size:10px;margin:2px 0;}
+
+#totop{width:98px;position:fixed;bottom:144px;right:0;height:38px;background:url(../images/icons.png) no-repeat -564px -532px;text-align: center;line-height: 50px;cursor:pointer;border:1px solid #000000;display:none;}
+/*--------二维码及一键置顶 结束-----*/
+
+
+/*----------轮播区 开始-------*/
+.carousel{width:320px;height:480px;float:right;margin:10px;position:relative;overflow: hidden;}
+.carousel .imgs{background:gray;height:480px;}
+.carousel .imgs li{float:left;}
+.carousel img{width:330px;height:480px;}
+
+.carousel .prev,.carousel .next{width:20px;height:24px;position:absolute;top:0;background:red;padding:10px;border-radius:20px;cursor:pointer;display:none;}
+.carousel .prev div,.carousel .next div{width:15px;height:23px;background:url(../images/btn.png);}
+.carousel .prev div{background-position:-57px 0;}
+.carousel .next div{background-position:-70px 0;}
+.carousel .prev{left:0px;top:230px;}
+.carousel .next{left:280px;top:230px;}
+
+.carousel .btns{width:330px;height:20px;position:absolute;bottom:10px;left:0;text-align:center;}
+.carousel .btns b{display:inline-block;width:20px;height:20px;background:#dddddd;border-radius:50%;margin:0 5px;cursor:pointer;}
+
+
+/*----------轮播区 结束-------*/
+
+
+
+
+

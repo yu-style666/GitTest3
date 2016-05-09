@@ -1,0 +1,74 @@
+/* 确保成功引入
+#content{background:red;width:100px;height:100px;}
+*/
+
+
+/*-----详情 开始-----*/
+#details_msg{width:1000px;height:auto;margin:0 auto;}
+
+
+.details_pic{width:1000px;height:auto;}
+
+.details_pic .pic_top{line-height:65px;height:65px;overflow: hidden;border-bottom:1px solid #dddddd;}
+.details_pic .pic_top ul{overflow: hidden;float:left;width:;height:65px;}
+.details_pic .pic_top ul li{margin-right:10px;}
+.details_pic .pic_top .times{float:right;background:url(../images/bag.jpg) no-repeat 0 24px;padding-left:20px;}
+
+/*-----------图片列表开始------------*/
+
+#title,#surprise,#type,#sort{height:60px;}
+#title{overflow: hidden;line-height: 60px;}
+#title h2{width:360px;height:60px;font-size:20px; float:left;}
+#title b{color:red;}
+#title b em{font-size:18px;}
+#surprise{padding-left:40px;background:url(../images/surprise.jpg) no-repeat 10px 10px;border:1px solid #dddddd;box-shadow:5px 5px 5px #999999;line-height: 60px;}
+#type{border:1px solid #dddddd;margin:25px 0 10px;padding-left:20px;line-height: 60px;}
+#type li{margin-right:20px;}
+#sort li{border:1px solid #dddddd;margin:0 10px;width:100px;height:30px;line-height:30px;text-align: center;cursor:pointer;}
+#sort li:hover{background:#dddddd;}
+
+/*-----------图片列表结束------------*/
+
+
+/*------文本区 开始--------*/
+#list{width:1020px;min-height:500px;margin:0 auto;overflow: hidden;}
+
+.coat{width:233px;height:398px;background:#ddd;float:left;margin:0 10px 10px;position:relative;border:1px solid #ddd;box-shadow:0 0 5px #333333;}
+
+.coat img{width:233px;height:303px;}
+.coat h3{padding-left:10px;}
+.coat p{padding-left:10px;}
+.coat .price{font-size: 15px;color:red;font-weight: 900;padding-left:10px;}
+.coat .delete{text-decoration:line-through;}
+.coat .recommend{width:80px;height:25px;position:absolute;left:0;top:0;background:url(../images/recommend.jpg);color:#ffffff;}
+.coat .mask{position:absolute;bottom:0;left:0;width:195px;height:100px;background:rgba(0,0,0,0.3);padding:20px 20px 0;display:none;}
+.mask .size li{border:1px solid #999999;margin:2px;width:40px;height:30px;text-align: center;line-height: 30px;background:#ffffff;font-size: 12px;cursor:pointer;}
+.mask .size li:hover{border:1px solid #000000;}
+
+
+/*------文本区 开始--------*/
+
+
+
+
+/*-----详情 结束-----*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

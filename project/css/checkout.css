@@ -1,0 +1,138 @@
+
+#header_top .service .service_consulting div{display:list-item;float:left;list-style:none;}
+
+#header_top .service .service_guide div a:hover,#header_top .service .service_consulting div a:hover{color:#bc2728;}
+#header_top .service .service_guide  .first a{position:relative;left:5px;top:-5px;color:red;}
+#header_top .service .service_guide div img{width:20px;height:20px;padding:4px 0 0 4px;}
+#header_top .service .service_consulting{float:right;width:250px;}
+#header_top .service .service_consulting{height:30px;}
+#header_top .service .service_consulting div{margin-right:20px;height:30px;line-height: 30px;}
+
+
+/*-------顶部  开始------*/
+#header_top .service .service_consulting{width:430px;}
+
+/*------顶部进程 开始-----*/
+#header_center .logo .process{width:380px;height:90px;background:url(../images/jincheng.jpg);float:right;}
+
+
+/*------顶部进程 结束-----*/
+
+/*-------顶部  结束------*/
+
+/*-------内容部分  开始------*/
+#content{width:1000px;margin:0 auto;height:auto;}
+#msg{width:1000px;margin:0 auto;height:auto;}
+#msg .title{border-bottom:1px solid #000000;margin-bottom:25px;}
+#msg .title h2{font-size:23px;line-height:42px;height:42px;}
+#address h3{width:1000px;height:30px;line-height: 30px; border-bottom:2px solid #000000;}
+
+/*----------表单部分开始----------*/
+from div{margin:10px 0;line-height:30px;}
+
+from span{width:100px;height:30px;display:inline-block;float:left;text-align:right;font-size:15px;margin-right:20px;}
+from input{width:480px;height:30px;outline:none;padding:0 10px;}
+from  .menu input{width:130px;height:;margin-right:15px;}
+from p{line-height:30px;float:right;color:red;width:360px;}
+from .confirm input{width:100px;height:30px;background:#db2726;color:#ffffff;text-align:center;font-weight: 500;border:none;}
+
+
+/*----------表单部分结束----------*/
+#address h4{line-height:40px;border-bottom:2px solid #000000;}
+#address .delivery{height:60px;line-height: 50px;}
+#address .delivery input{line-height: 40px;margin-left:30px;}
+
+#address .paymentnav{height:120px;padding:15px 0;}
+#address .paymentnav .list1{width:404px;border:1px solid #000000;border-right:none;height:25px;}
+#address .paymentnav .list1 li{border-right:1px solid #000000;width:100px;height:26px;line-height: 25px;text-align:center;background:#dddddd;cursor:pointer;}
+.paymentnav .paymentnav_box{width:760px;height:73px;border:1px solid #000000;position:relative;top:-1px;z-index: -1;position:relative;}
+
+.paymentnav .paymentnav_box .list2 img{width:760px;height:73px;position:absolute;left:0;top:0;}
+
+.information{width:980px;height:30px;line-height: 30px; border-bottom:2px solid #dddddd;margin:0 auto;}
+.information div{width:400px;float:left;}
+.information div .day{margin-left:20px;background:url(../images/bag.jpg) no-repeat 0 7px;padding-left:20px;display:inline-block;height:30px;font-weight: 900;}
+.information h5{float:left;}
+.information .titles{overflow: hidden;float:right;width:580px;}
+.information .titles li{width:115px;text-align: center;line-height: 30px;font-weight: 900;font-size:14px;}
+
+/*-------购物车商品详情 开始------*/
+#address .goods{padding:20px 0 0 20px;width:980px;height:130px;margin-bottom:20px;border-bottom:1px dashed #000000;}
+#address .goods img{float:left;width:80px;height:105px;border:1px solid #dddddd;}
+#address .goods .massage{float:left;line-height:20px;padding-left:40px;width:260px;height:105px;font-size:12px;}
+#address .goods .massage b{height:20px;width:;300px;font-size:15px;}
+#address .goods .massage p{width:300px;height:15px;margin-bottom:20px;}
+#address .goods .massage span{width:300px;height:15px;}
+/*-----商品数加减 开始------*/
+#address .goods .price,#address .goods .number,#address .goods .discount,#address .goods .subtotal,#address .goods .delete{float:left;height:107px;width:119px;line-height:107px;text-align:center;font-size:14px;}
+#address .goods .number{padding:40px 5px 0;width:108px;height:67px;}
+#address .goods .number p{width:110px;height:30px;border:1px solid #000000;line-height: 30px;border-right:none;}
+#address .goods .number p b{float:left;width:28px;height:30px;border-right:1px solid #000000;cursor:pointer;}
+#address .goods .number p .num{width:51px;}
+#address .goods .number p .add,#address .goods .number p .reduce{color:red;}
+#address .goods .subtotal span{color:red;}
+/*-----商品数加减 结束------*/
+#address .goods .delete{width:68px;height:55px;padding:45px 0 0 50px;}
+#address .goods .delete img{width:13px;height:13px;cursor:pointer;}
+/*-------购物车商品详情 结束------*/
+#address .invoice input{line-height: 40px;margin-left:40px;}
+
+#address .allprice{height:150px;margin:40px 0 20px;font-size:15px;}
+#address .allprice div{text-align:right;padding-right:20px;}
+#address .allprice .total em{color:red;font-weight:900;font-size:20px;}
+#address .allprice  .submit{width:225px;height:35px;background:#db2726;float:right;margin:20px 0;text-align: center;line-height: 35px;padding:0;}
+#address .allprice  .submit a{color:#ffffff;font-weight: 900;width:100%;height:100%;display:block;}
+
+/*-------内容部分  结束------*/
+
+/*-------三级菜单部分 开始------*/
+#box {
+        width: 450px;
+        margin-left: 120px;
+        height: 32px;
+        position: relative;
+    }
+    
+    #pro,
+    #city,
+    #area {
+        width: 150px;
+        max-height: 300px;
+        text-align: center;
+        line-height: 30px;
+        border: 1px solid #000;
+        float: left;
+        overflow: auto;
+        position: absolute;
+        z-index: 2;
+        cursor:pointer;
+    }
+    
+    #pro {
+        left: 0;
+    }
+    
+    #city {
+        left: 175px;
+    }
+    
+    #area {
+        left: 350px;
+    }
+    
+    #box li {
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        border-bottom: 1px solid #000;
+        background: #ffffff;
+        cursor:pointer;
+    }
+
+/*-------三级菜单部分 结束------*/
+
+
+
+
+
+

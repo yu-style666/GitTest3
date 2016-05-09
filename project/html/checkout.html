@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>确认订单信息</title>
+    <script src="../js/jquery-1.11.1.min.js"></script>
+    <script src="../js/checkout.js"></script>
+    <script src="../js/data.js"></script>
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/checkout.css">
+    <link rel="shortcut icon" href="../images/favicon.ico">
+</head>
+
+<body>
+    <!--   header start-->
+    <div id="header">
+        <div id="header_top">
+            <div class="service">
+                <div class="service_consulting">
+                    <div>
+                        <a href="#">欢迎&nbsp;退出</a></div>
+                    <div>|</div>
+                    <div>
+                        <a href="#">我的魅力惠</a></div>
+                    <div>|</div>
+                    <div>
+                        400-664-6698</div>
+                    <div>|</div>
+                    <div>
+                        <a href="#">在线咨询
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="header_center">
+            <div class="logo">
+                <h1 class="logo_img"><a href="../index.html"></a></h1>
+                <div class="logo_txt">全球奢品 官方授权</div>
+                <div class="process">
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!--   header end-->
+
+    <!--   content start-->
+    <div id="content">
+        <div id="msg">
+            <div class="title">
+                <h2>确认订单信息</h2>
+            </div>
+            <div id="address">
+                <h3>收货地址</h3>
+                <div style="margin:20px 0;">使用新地址</div>
+                <from>
+                    <div>
+                        <span>收货人：</span>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div>
+                        <span>手机号码：</span>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div class="menu">
+                        <span>所在地区：</span>
+
+
+
+
+                        <div id="box">
+                            <ul id="pro">
+                                <ul>-请选择省份-</ul>
+                            </ul>
+                            <ul id="city">
+                                <ul>-请选择城市-</ul>
+                            </ul>
+                            <ul id="area">
+                                <ul>-请选择县区-</ul>
+                            </ul>
+
+                        </div>
+                    </div>
+
+
+                    <div>
+                        <span>详细地址：</span>
+                        <input type="text" name="" id="">
+                    </div>
+                    <div>
+                        <span>邮政编码：</span>
+                        <input type="text" name="" id="">
+                        <p>错误的邮编可能导致派送延迟或无法派送，请谨慎填写</p>
+                    </div>
+                    <div class="confirm">
+                        <span></span>
+                        <input type="submit" name="" id="" value="送到该地址">
+                    </div>
+                </from>
+                <h4>配送时间</h4>
+                <div class="delivery">
+                    <input type="radio" name="mode" id="buxian">
+                    <label for="buxian" onselectstart="return false">不限</label>
+                    <input type="radio" name="mode" id="workingday">
+                    <label for="workingday" onselectstart="return false">仅限工作日</label>
+                    <input type="radio" name="mode" id="holiday">
+                    <label for="holiday" onselectstart="return false">只有双休日、节假日</label>
+                </div>
+
+                <h4>支付方式</h4>
+                <div>请选择适合您的支付方式</div>
+                <div class="paymentnav">
+                    <ul class="list1">
+                        <li>第三方支付</li>
+                        <li>快捷支付</li>
+                        <li>网上银行支付</li>
+                        <li>货到付款</li>
+                    </ul>
+                    <div class="paymentnav_box">
+                        <div class="list2">
+
+                            <img src="../images/checkout0.jpg" alt="">
+                            <img src="../images/checkout1.jpg" alt="">
+                            <img src="../images/checkout2.jpg" alt="">
+                            <img src="../images/checkout3.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+
+                <h4>购物清单</h4>
+                <div class="information">
+                    <div>
+                        <h5>商品信息</h5>
+                        <span class="day">预计出库日期：</span>
+                        <span>2016年5月15日</span>
+                    </div>
+                    <ul class="titles">
+                        <li>单价</li>
+                        <li>数量</li>
+                        <li>优惠</li>
+                        <li>小计</li>
+                        <li>删除</li>
+                    </ul>
+
+                </div>
+                <div class="goods">
+                    <img src="../images/big0.jpg" alt="">
+                    <div class="massage">
+                        <b>KAREN MILLEN</b>
+                        <p> 深蓝色几何刺绣装饰蕾丝拼接连衣裙</p>
+                        <span>尺寸：14</span>
+                    </div>
+                    <div class="price">
+                        <em>￥</em><span>900</span>
+                    </div>
+                    <div class="number">
+                        <p>
+                            <b class="add" onselectstart="return false">+</b>
+                            <b class="num">1</b>
+                            <b class="reduce" onselectstart="return false">-</b>
+                        </p>
+                    </div>
+                    <div class="discount">
+
+                    </div>
+                    <div class="subtotal">
+                        <em>￥</em><span>900</span>
+                    </div>
+                    <div class="delete">
+                        <img src="../images/delete.jpg" alt="">
+                    </div>
+                </div>
+                <div class="invoice">
+                    <span>是否需要开发票?</span>
+                    <input type="radio" name="mode" id="need">
+                    <label for="need" onselectstart="return false">需要</label>
+                    <input type="radio" name="mode" id="unwanted">
+                    <label for="unwanted" onselectstart="return false">不需要</label>
+                </div>
+                <div class="allprice">
+                    <div>商品小计：￥<em>1234</em></div>
+                    <div>+运费：￥<span>0</span></div>
+                    <div class="total">=应付：<span>￥</span><em>1234</em></div>
+                    <div class="submit"><a href="#">提交订单</a></div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!--   content end-->
+
+
+
+
+    <!--footer start-->
+    <div id="footer">
+        <div class="bottom">
+            <ul class="footer_nav">
+                <li class="a1"><a href="#">100%品牌授权正品</a></li>
+                <li class="a2"><a href="#">满668免运费</a></li>
+                <li class="a3"><a href="#">7天无条件退换货</a></li>
+                <li class="a4"><a href="#">超值折扣</a></li>
+                <li class="a5"><a href="#">9点限时闪购 </a></li>
+                <li class="a6"><a href="#">400-664-6698</a></li>
+            </ul>
+            <ul class="footer_link">
+                <li><a href="#">关于魅力惠</a></li>
+                <li><a href="#">加入我们</a></li>
+                <li><a href="#">联系我们</a></li>
+                <li><a href="#">使用帮助</a></li>
+                <li><a href="#">使用规则</a></li>
+                <li><a href="#">隐私声明</a></li>
+            </ul>
+            <p class="copyright">COPYRIGHT©2016 杭州魅俪信息技术有限公司版权所有&nbsp;&nbsp;浙ICP备16004860号-1</p>
+            <div class="license">
+                <img src="../images/badge.jpg" alt="">
+                <img src="../images/sincerity.jpg" alt="">
+            </div>
+        </div>
+    </div>
+
+
+    <!--footer end-->
+</body>
+
+
+</html>

@@ -1,0 +1,705 @@
+{
+    "Luxurygoods": [{
+        "id": "200000",
+        "url": "images/shop10.jpg",
+        "title": "KAREN MILLEN 系列女装",
+        "tips": "购买4件3折",
+        "discount": "3"
+}, {
+        "id": "1",
+        "url": "images/shop1.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件2折",
+        "discount": "3.1"
+}, {
+        "id": "2",
+        "url": "images/shop2.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3.2"
+}, {
+        "id": "3",
+        "url": "images/shop3.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买8件3折",
+        "discount": "3.3"
+}, {
+        "id": "4",
+        "url": "images/shop4.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3.5折",
+        "discount": "3.4"
+}, {
+        "id": "5",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3.5"
+}, {
+        "id": "6",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买7件3折",
+        "discount": "3.6"
+}, {
+        "id": "7",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件9折",
+        "discount": "3.7"
+}, {
+        "id": "8",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买2件3折",
+        "discount": "3.8"
+}, {
+        "id": "9",
+        "url": "images/shop9.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买6件3折",
+        "discount": "3.9"
+}],
+    "Fashion": [{
+        "id": "10",
+        "url": "images/shop0.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "11",
+        "url": "images/shop1.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买6件1折",
+        "discount": "3"
+}, {
+        "id": "12",
+        "url": "images/shop2.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买3件6折",
+        "discount": "3"
+}, {
+        "id": "13",
+        "url": "images/shop3.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "14",
+        "url": "images/shop4.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买7件3.3折",
+        "discount": "3"
+}, {
+        "id": "15",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买8件3折",
+        "discount": "3"
+}, {
+        "id": "16",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "17",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "18",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "19",
+        "url": "images/shop9.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买4件3.5折",
+        "discount": "5"
+}, {
+        "id": "10",
+        "url": "images/shop0.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "11",
+        "url": "images/shop1.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买6件1折",
+        "discount": "3"
+}, {
+        "id": "12",
+        "url": "images/shop2.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买3件6折",
+        "discount": "3"
+}, {
+        "id": "13",
+        "url": "images/shop3.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "14",
+        "url": "images/shop4.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买7件3.3折",
+        "discount": "3"
+}, {
+        "id": "15",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买8件3折",
+        "discount": "3"
+}, {
+        "id": "16",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "17",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "18",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "19",
+        "url": "images/shop9.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买4件3.5折",
+        "discount": "5"
+}, {
+        "id": "10",
+        "url": "images/shop0.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "11",
+        "url": "images/shop1.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买6件1折",
+        "discount": "3"
+}, {
+        "id": "12",
+        "url": "images/shop2.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买3件6折",
+        "discount": "3"
+}, {
+        "id": "13",
+        "url": "images/shop3.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "14",
+        "url": "images/shop4.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买7件3.3折",
+        "discount": "3"
+}, {
+        "id": "15",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买8件3折",
+        "discount": "3"
+}, {
+        "id": "16",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "17",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "18",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}],
+    "Today": [{
+        "id": "20",
+        "url": "images/shop0.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "21",
+        "url": "images/shop1.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "22",
+        "url": "images/shop2.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "7"
+}, {
+        "id": "23",
+        "url": "images/shop3.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "4"
+}, {
+        "id": "24",
+        "url": "images/shop4.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "25",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "8"
+}, {
+        "id": "26",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "27",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "9"
+}, {
+        "id": "28",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "29",
+        "url": "images/shop9.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "9"
+}, {
+        "id": "30",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "8"
+}, {
+        "id": "31",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "32",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "9"
+}, {
+        "id": "33",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "34",
+        "url": "images/shop9.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "9"
+}],
+    "BestSellers": [{
+        "id": "35",
+        "url": "images/shop0.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "6"
+}, {
+        "id": "36",
+        "url": "images/shop1.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "37",
+        "url": "images/shop2.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3.6"
+}, {
+        "id": "38",
+        "url": "images/shop3.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3.7"
+}, {
+        "id": "39",
+        "url": "images/shop4.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "40",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "41",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "4.1"
+}, {
+        "id": "42",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "43",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "7"
+}, {
+        "id": "44",
+        "url": "images/shop9.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "6"
+}],
+    "Activity": [{
+        "id": "45",
+        "url": "images/shop0.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "46",
+        "url": "images/shop1.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "47",
+        "url": "images/shop2.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "2"
+}, {
+        "id": "48",
+        "url": "images/shop3.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "4"
+}, {
+        "id": "49",
+        "url": "images/shop4.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "50",
+        "url": "images/shop5.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "51",
+        "url": "images/shop6.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "5"
+}, {
+        "id": "52",
+        "url": "images/shop7.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}, {
+        "id": "53",
+        "url": "images/shop8.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "8"
+}, {
+        "id": "54",
+        "url": "images/shop9.jpg",
+        "title": "Hugo Boss 系列男装",
+        "tips": "购买5件3折",
+        "discount": "3"
+}],
+    "tomorrow": [{
+        "id": "60",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2"
+    }, {
+        "id": "61",
+        "url": "images/activity2.jpg",
+        "title": "特惠专场，服饰",
+        "discount": "2.1"
+    }, {
+        "id": "62",
+        "url": "images/activity3.jpg",
+        "title": "服饰，特惠专场",
+        "discount": "4.6"
+    }, {
+        "id": "63",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.3"
+    }, {
+        "id": "64",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场，精选",
+        "discount": "2.4"
+    }, {
+        "id": "65",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场，服饰",
+        "discount": "5.1"
+    }],
+    "Tuesday": [{
+        "id": "71",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.6"
+    }, {
+        "id": "72",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.7"
+    }, {
+        "id": "73",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.8"
+    }, {
+        "id": "74",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "4.9"
+    }, {
+        "id": "75",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.6"
+    }, {
+        "id": "76",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "7"
+    }, {
+        "id": "77",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.8"
+    }, {
+        "id": "78",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "4"
+    }, {
+        "id": "79",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.6"
+    }, {
+        "id": "80",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.7"
+    }, {
+        "id": "81",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.8"
+    }, {
+        "id": "82",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.9"
+    }],
+    "Wednesday": [{
+        "id": "90",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2"
+    }, {
+        "id": "91",
+        "url": "images/activity4.jpg",
+        "title": "特惠专场，服饰",
+        "discount": "2.1"
+    }, {
+        "id": "92",
+        "url": "images/activity3.jpg",
+        "title": "服饰，特惠专场",
+        "discount": "5.2"
+    }, {
+        "id": "93",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.3"
+    }, {
+        "id": "94",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场，精选",
+        "discount": "2.4"
+    }, {
+        "id": "95",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场，服饰",
+        "discount": "4.5"
+    }],
+    "Thursday": [{
+        "id": "111",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.6"
+    }, {
+        "id": "112",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "5.7"
+    }, {
+        "id": "113",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.8"
+    }, {
+        "id": "114",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "9"
+    }, {
+        "id": "115",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.6"
+    }, {
+        "id": "116",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.7"
+    }, {
+        "id": "117",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "8"
+    }, {
+        "id": "118",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.9"
+    }],
+    "Friday": [{
+        "id": "131",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "5"
+    }, {
+        "id": "132",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2"
+    }, {
+        "id": "133",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "3"
+    }, {
+        "id": "134",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.9"
+    }, {
+        "id": "135",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.6"
+    }, {
+        "id": "136",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.7"
+    }, {
+        "id": "137",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "7"
+    }, {
+        "id": "138",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.9"
+    }, {
+        "id": "139",
+        "url": "images/activity4.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.6"
+    }, {
+        "id": "140",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "7"
+    }, {
+        "id": "141",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.8"
+    }, {
+        "id": "142",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.9"
+    }, {
+        "id": "143",
+        "url": "images/activity2.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.5"
+    }, {
+        "id": "144",
+        "url": "images/activity3.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.8"
+    }, {
+        "id": "145",
+        "url": "images/activity1.jpg",
+        "title": "精选服饰，特惠专场",
+        "discount": "2.1"
+    }],
+    "carousel": [{
+        "img": "images/carousel0.jpg"
+    }, {
+        "img": "images/carousel1.jpg"
+    }, {
+        "img": "images/carousel2.jpg"
+    }, {
+        "img": "images/carousel3.jpg"
+    }, {
+        "img": "images/carousel0.jpg"
+    }, {
+        "img": "images/carousel1.jpg"
+    }]
+
+}

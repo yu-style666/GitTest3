@@ -1,0 +1,57 @@
+/*-------顶部  开始------*/
+#header_top .service .service_consulting{width:430px;}
+/*-------顶部  结束------*/
+
+/*-------内容部分  开始------*/
+#cart{width:1000px;margin:0 auto;}
+#cart .title{overflow:hidden;height:42px;border-bottom:1px solid #000000;margin-bottom:25px;}
+#cart .title h2{font-size:23px;line-height:42px;float:left;}
+#cart .title p{text-align:right;width:520px;line-height: 42px;float:right;font-size:11px;}
+#cart .information{width:1000px;height:30px;line-height: 30px; border-bottom:2px solid #000000;}
+#cart .information div{width:400px;float:left;}
+#cart .information div .day{margin-left:20px;background:url(../images/bag.jpg) no-repeat 0 7px;padding-left:20px;display:inline-block;height:30px;font-weight: 900;}
+#cart .information h5{float:left;}
+#cart .titles{overflow: hidden;float:right;width:600px;}
+#cart .titles li{width:120px;text-align: center;line-height: 30px;font-weight: 900;font-size:14px;}
+/*-------购物车商品详情 开始------*/
+#cart .goods{padding:20px 0 0 20px;width:980px;height:130px;margin-bottom:20px;border-bottom:1px dashed #000000;}
+#cart .goods img{float:left;width:80px;height:105px;border:1px solid #dddddd;}
+#cart .goods .massage{float:left;line-height:20px;padding-left:40px;width:260px;height:105px;font-size:12px;}
+#cart .goods .massage b{height:20px;width:;300px;font-size:15px;}
+#cart .goods .massage p{width:300px;height:15px;margin-bottom:20px;}
+#cart .goods .massage span{width:300px;height:15px;}
+/*-----商品数加减 开始------*/
+#cart .goods .price,#cart .goods .number,#cart .goods .discount,#cart .goods .subtotal,#cart .goods .delete{float:left;height:107px;width:119px;line-height:107px;text-align:center;font-size:14px;}
+#cart .goods .number{padding:40px 5px 0;width:108px;height:67px;}
+#cart .goods .number p{width:110px;height:30px;border:1px solid #000000;line-height: 30px;border-right:none;}
+#cart .goods .number p b{float:left;width:28px;height:30px;border-right:1px solid #000000;}
+#cart .goods .number p .num{width:51px;}
+#cart .goods .number p .add,#cart .goods .number p .reduce{color:red;cursor:pointer;}
+#cart .goods .subtotal span{color:red;}
+/*-----商品数加减 结束------*/
+#cart .goods .delete{width:68px;height:55px;padding:45px 0 0 50px;}
+#cart .goods .delete img{width:13px;height:13px;cursor:pointer;}
+/*-------购物车商品详情 结束------*/
+/*----------购物车底部结账区  开始------*/
+#cart_bottom{width:1000px;margin:0 auto;border:;height:240px;margin-bottom:86px;border-bottom:1px solid #dddddd;}
+#cart_bottom .tips{width:978px;height:40px;border:1px solid #dddddd;box-shadow:5px 5px 5px #f0f0f0;line-height:40px;padding-left:20px;}
+#cart_bottom .tips span{color:red;}
+#cart_bottom .checkout{height:110px;width:100%;padding-top:80px;}
+#cart_bottom .checkout .total{width:100%;height:27px;overflow:hidden;}
+#cart_bottom .checkout .total a{float:left;border:1px solid #000000;padding:2px 20px;color:#000000;}
+#cart_bottom .checkout .total p{float:right;padding:0 20px;font-size:17px;}
+#cart_bottom .checkout .total p em,#cart_bottom .checkout .total p span{color:red;font-weight: 900;}
+#cart_bottom .checkout .checkout_link{text-align:right;padding-top:20px;}
+#cart_bottom .checkout .checkout_link a{line-height:35px;text-align:center;font-size:15px;padding:10px 82px;margin:0 10px;}
+#cart_bottom .checkout .checkout_link .continue{border:1px solid #000000;color:#000000;}
+#cart_bottom .checkout .checkout_link .payment{background:#db2726;color:#ffffff;}
+/*----------购物车底部结账区  结束------*/
+/*-------内容部分  结束------*/
+
+
+
+
+
+
+
+
